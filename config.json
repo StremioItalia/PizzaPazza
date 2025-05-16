@@ -1,7 +1,7 @@
 {
     "Siti": {
         "StreamingCommunity": {
-            "url": "https://streamingcommunity.spa",
+            "url": "https://streamingunity.to",
             "SC_ForwardProxy": "0",
             "SC_PROXY": "0",
             "VX_ForwardProxy": "0",
@@ -30,7 +30,7 @@
             "enabled": "1"
         },
         "CB01": {
-            "url": "https://cb01net.uno",
+            "url": "https://cb01net.icu",
             "CB_PROXY": "1",
             "CB_ForwardProxy": "0",
             "MX_ForwardProxy": "0",
@@ -48,7 +48,7 @@
             "enabled": "1"
         },
         "Guardaserie": {
-            "url": "https://guardaserietv.sbs",
+            "url": "https://guardaserietv.art",
             "enabled": "1",
             "GS_ForwardProxy": "0",
             "GS_PROXY": "1"
@@ -72,11 +72,11 @@
             "AW_PROXY": "0"
         },
         "SkyStreaming": {
-            "url": "https://skystreaming.download",
+            "url": "https://skystreaming.email",
             "enabled": "1"
         },
         "DaddyLiveHD": {
-            "url": "https://daddylive.mp",
+            "url": "https://daddylive.dad",
             "enabled": "1"
         }
     },
