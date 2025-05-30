@@ -30,7 +30,7 @@
             "enabled": "1"
         },
         "CB01": {
-            "url": "https://cb01net.my",
+            "url": "https://cb01net.download",
             "CB_PROXY": "1",
             "CB_ForwardProxy": "0",
             "MX_ForwardProxy": "0",
@@ -48,7 +48,7 @@
             "enabled": "1"
         },
         "Guardaserie": {
-            "url": "https://guardaserietv.art",
+            "url": "https://guardaserietv.blog",
             "enabled": "1",
             "GS_ForwardProxy": "0",
             "GS_PROXY": "1"
@@ -72,7 +72,7 @@
             "AW_PROXY": "0"
         },
         "SkyStreaming": {
-            "url": "https://skystreaming.help",
+            "url": "https://skystreaming.stream",
             "enabled": "1"
         },
         "DaddyLiveHD": {
