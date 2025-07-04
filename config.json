@@ -1,7 +1,7 @@
 {
     "Siti": {
         "StreamingCommunity": {
-            "url": "https://streamingunity.shop",
+            "url": "https://streamingunity.cloud",
             "SC_ForwardProxy": "0",
             "SC_PROXY": "0",
             "VX_ForwardProxy": "0",
@@ -13,7 +13,7 @@
             "enabled": "1"
         },
         "Tantifilm": {
-            "url": "https://www.tantifilm.food",
+            "url": "https://www.tantifilm.qpon",
             "TF_ForwardProxy": "0",
             "TF_PROXY": "1",
             "enabled": "1"
@@ -30,7 +30,7 @@
             "enabled": "1"
         },
         "CB01": {
-            "url": "https://cb01net.world",
+            "url": "https://cb01net.today",
             "CB_PROXY": "1",
             "CB_ForwardProxy": "0",
             "MX_ForwardProxy": "0",
@@ -48,7 +48,7 @@
             "enabled": "1"
         },
         "Guardaserie": {
-            "url": "https://guardaserietv.homes",
+            "url": "https://guardaserietv.fit",
             "enabled": "1",
             "GS_ForwardProxy": "0",
             "GS_PROXY": "1"
@@ -76,7 +76,7 @@
             "enabled": "1"
         },
         "DaddyLiveHD": {
-            "url": "https://daddylive.dad",
+            "url": "https://www.alliance4creativity.com",
             "enabled": "1"
         }
     },
